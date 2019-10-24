@@ -4,7 +4,11 @@ This project provides the basic information needed to create a website for a rea
 
 ## Links
 
-- [Source]()
+- [Source](https://github.com/denisecase/pbl-lifeline)
+
+## Client
+
+- Russ Schuster <schuster1953@embarqmail.com> 
 
 ## Team
 
@@ -12,9 +16,9 @@ Northwest Missouri State University
 
 44-563 Web Apps and Services - Fall 2019
 
-Section 1 - Dr. Denise Case
-Section 2 - Dr. Denise Case
-Section 3 - Dr. Michael Rogers
+- Section 1 - Dr. Denise Case
+- Section 2 - Dr. Denise Case
+- Section 3 - Dr. Michael Rogers
 
 ## Included
 
