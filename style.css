@@ -1,0 +1,8 @@
+nav, ul {
+    position: fixed;
+}
+
+/* Classes and ids */
+.disclaimer{
+    font-size: 0.95em;
+}
