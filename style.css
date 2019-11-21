@@ -3,8 +3,8 @@ main
     text-align: center;
 }
 
-.bg-light{
-    background-color:#86d486!important
+.bg-dark{
+    background-color:#416de6!important
 }
 
 footer{
@@ -22,3 +22,7 @@ footer{
     padding-left: 100px;
 }
 
+.price-img{
+    width: 100px;
+    height: auto;
+}
