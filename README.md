@@ -31,4 +31,7 @@ and then find the appropriate "script" tag near the bottom of the page (if appli
 
 ## Our Team
 
-tbd
+Our Team: Justin Folkerts, Dakota Gravitt, Matthew Sheahan, Logan Smith  
+Our Stack: Static HTML with Bootstrap  
+Our Tools: VSCode, Google Chrome, Git  
+Our Process: Took the requirements given and implemented them one by one into the site until all were fulfilled  
