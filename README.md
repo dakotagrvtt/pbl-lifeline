@@ -10,6 +10,8 @@ The following HTML Code is a tag that embeds an image in your site. In order to 
 <img src="logo/New Lifeline Logo.jpg" title="PBL Logo">
 ```
 
+Original logo was edited using Microsoft Publisher to fit the website better.
+
 ## Adding a new image
 
 This step is very similar to replacing an image. Start by preparing your new image and placing it in the "images" folder. Next you need to find an "img" tag similar to the one above and change the "src=" value to "images/" and then the name of your file, following the format that all images on the site already follow. After you have prepared your "img" tag, you just need to place the tag in the desired position in the HTML, and possible add any attributes that you want for your image (ie. fixed size/position).
